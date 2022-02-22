@@ -23,12 +23,11 @@ fugiat
 incididunt
 ipsum
 irure
-janeroe
-johndoe
 labore
 laboris
 laborum
 Lorem
+lpartan
 magna
 mollit
 nisi
@@ -37,6 +36,7 @@ occaecat
 officia
 Pandoc’s
 pariatur
+Partan
 proident
 qui
 quis
